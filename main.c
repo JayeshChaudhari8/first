@@ -3,6 +3,7 @@
 
 int main()
 {
-    printf("Hello, welcome in KPIT...!\n");
+    printf("Hello, welcome in KPIT...!\n")
+    printf("Hello world..!\n");
     return 0;
 }
