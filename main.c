@@ -7,10 +7,14 @@ int main()
 
     printf("Hello, welcome in KPIT...!\n")
 
+
+    printf("Hello, welcome in KPIT...!\n")
+
     printf("Hello...!\n")
 
     
     printf("chaudhari...!\n")
+    
     
 
 
