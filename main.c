@@ -4,11 +4,11 @@
 int main()
 {
     
-<<<<<<< HEAD
-    printf("12345...!\n")
-=======
-    printf("789...!\n")
->>>>>>> refs/remotes/origin/alpha
+<<<<<<< HD
+    printf("2345...!\n")
+======
+    printf("78...!\n")
+>>>>>>> refs/remotes/rigin/alpha
     
 
     return 0;
