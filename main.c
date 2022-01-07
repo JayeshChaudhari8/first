@@ -13,7 +13,7 @@ int main()
     printf("Hello...!\n")
 
     
-    printf("chaudhari...!\n")
+    printf("chaudhari..!\n")
     
     
 
