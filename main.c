@@ -8,7 +8,7 @@ int main()
     printf("2345...!\n")
 ======
     printf("78...!\n")
->>>>>>> refs/remotes/rigin/alpha
+
     
 
     return 0;
