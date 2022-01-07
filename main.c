@@ -5,7 +5,11 @@ int main()
 {
     
 
-   abcd   
+    printf("2345...!\n")
+
+    printf("78...!\n")
+
+    
 
     return 0;
 
