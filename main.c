@@ -5,8 +5,7 @@ int main()
 {
     
 <<<<<<< HD
-    printf("2345...!\n")
-======
+    printf("2345...!\")
     printf("78...!\n")
 >>>>>>> refs/remotes/rigin/alpha
     
